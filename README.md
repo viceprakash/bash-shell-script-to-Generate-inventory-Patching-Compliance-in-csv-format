@@ -1,4 +1,4 @@
-# bash/shellscript to Generate inventory,Patching/Compliance report in csv format
+# bash/shellscript to Generate inventory,Patching/Compliance report in csv format on muliple RHEL/CentoS servers
 bash/shell script to Generate inventory/Patching/Compliance on multiple RHEL/CentOS &amp; Ubuntu Servers
 
 if you are running a Red Hat environment without satellite integration, or if it is CentOS systems, this script will help you to create a report like listed usecases
